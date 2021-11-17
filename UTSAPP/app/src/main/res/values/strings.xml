@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">MEPO ID</string>
+    <!--    Way Belerang-->
+    <string name="desc_waybelerang">
+        Way Belerang  merupakan pemandian air panas yang mengandung belerang alam, berada di kaki Gunung Rajabasa di Desa Way Belerang, Kecamatan Kalianda, Lampung Selatan, Provinsi Lampung. Tempat wisata ini berjarak tidak terlalu jauh dari Kota Kalianda, Ibukota Kabupaten Lampung, hanya sekitar 2.1 kilometer saja.
+    </string>
+    <string name="address_waybelerang">
+        Kalianda, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551
+    </string>
+    <string name="open_waybelerang">
+        Selasa	06.00–18.00
+        \nRabu	06.00–18.00
+        \nKamis	06.00–18.00
+        \nJumat	06.00–18.00
+        \nSabtu	06.00–18.00
+        \nMinggu06.00–18.00
+        \nSenin	06.00–18.00
+    </string>
+    <string name="city_waybelerang">
+        Lampung
+    </string>
+    <string name="heading_waybelerang">Pemandian Air Panas Way Belerang</string>
+
+    <!--    Pantai Klara -->
+    <string name="desc_pklara">
+        Nama Klara di ambil dari kependekan dari Kelapa Rapat. Di mana pada pantai ini benar-benar banyak pohon kelapa yang jaraknya cukup berdekatan, sehingga bisa dijadikan untuk tempat berteduh yang nyaman di pinggir pantai, udaranya yang tak terlalu panas dan hembusan angin yang semilir, membuat Anda nyaman berada di pantai ini.\n\nOmbak di pantai ini bisa di katakan cukup jinak lantaran jarak di teluk Lampung dan posisinya benar-benar jauh dari Samudra Indonesia, pantai ini terhitung pantai yang cocok untuk berlibur bersama keluarga, dilihat Airnya sangat jernih seperi bisa melihat dasar nya.
+    </string>
+    <string name="address_pklara">
+        Gebang, Padang Cermin, Kabupaten Pesawaran, Lampung
+    </string>
+    <string name="open_pklara">
+        Selasa	06.00–19.00
+        \nRabu	06.00–19.00
+        \nKamis	06.00–19.00
+        \nJumat	06.00–19.00
+        \nSabtu	06.00–19.00
+        \nMinggu06.00–19.00
+        \nSenin	06.00–19.00
+    </string>
+    <string name="city_pklara">
+        Lampung
+    </string>
+    <string name="heading_pklara">Pantai Klara</string>
+
+    <!--    Pantai Gigi Hiu -->
+    <string name="desc_pghiu">
+        Pantai Gigi Hiu merupakan pantai cantik yang memiliki jajaran batuan karang yang tersebar di sepanjang pantai. Batuan karang itulah yang membuat pantai ini berbeda dari pantai yang lain. Keindahan dan keeksotisan itulah yang membuat Pantai Gigi Hiu terkenal hingga ke mancanegara, banyak wisatawan asing yang terbuai akan keindahannya. Batuan karang yang ada di Pantai Gigi Hiu seakan tumbuh dari dasar bumi, layaknya hasil latihan avatar yang sedang belajar ilmu tanah.
+    </string>
+    <string name="address_pghiu">
+        Pekon Susuk, Kelumbayan, Kabupaten Tanggamus, Lampung
+    </string>
+    <string name="open_pghiu">
+        Selasa	08.00–17.00
+        \nRabu	08.00–17.00
+        \nKamis	08.00–17.00
+        \nJumat	08.00–17.00
+        \nSabtu	08.00–17.00
+        \nMinggu08.00–17.00
+        \nSenin	08.00–17.00
+    </string>
+    <string name="city_pghiu">
+        Lampung
+    </string>
+    <string name="heading_pghiu">Pantai Gigi Hiu</string>
+
+    <!--    Danau Bekri -->
+    <string name="desc_danaubekri">
+        Danau Bekri Seputih Mataram merupakan danau alam yang terbentuk dari dua danau kecil dan berada diantara perkebunan kelapa sawit.
+        \nDanau dengan panorma yang eksotis ini beralamat di Kecamatan Seputih Mataran, Kabupaten Lampung Tengah. Untuk menjangkau Danau Bekri ini anda bisa melalui Kampung Wates, Kecamatan Bumiratu Nuban atau dari Gotong Royong Kecamatan Gunung Sugih.
+    </string>
+    <string name="address_danaubekri">
+        Kecamatan Seputih Mataran, Kabupaten Lampung Tengah, Lampung
+    </string>
+    <string name="open_danaubekri">
+        Selasa	08.00–17.00
+        \nRabu	08.00–17.00
+        \nKamis	08.00–17.00
+        \nJumat	08.00–17.00
+        \nSabtu	08.00–17.00
+        \nMinggu08.00–17.00
+        \nSenin	08.00–17.00
+    </string>
+    <string name="city_danaubekri">
+        Lampung
+    </string>
+    <string name="heading_danaubekri">Danau Bekri</string>
+
+    <!--    General-->
+    <string name="header_detail">Detail Destinasi</string>
+    <string name="head_address">Alamat</string>
+    <string name="head_open">Buka</string>
+    <string name="head_city">Provinsi</string>
+    <string name="ticket">Tiket Masuk</string>
+    <string name="head_name">Destinasi</string>
+    <string name="buy">Beli Tiket</string>
+    <string name="code_ticket">A14FGSFDS2FDG</string>
+    <string name="head_code">Kode Tiket</string>
+    <string name="dummy_photos">source google</string>
+    <string name="price">Harga Tiket</string>
+    <string name="num_price">Rp.15.000,00/orang</string>
+    <string name="head_sumprice">TIKET MASUK</string>
+</resources>

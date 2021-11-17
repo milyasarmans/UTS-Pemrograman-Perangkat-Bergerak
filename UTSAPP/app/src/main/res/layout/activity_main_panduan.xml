@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    tools:context=".MainAuthor"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="100dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:textAlignment="center"
+            android:textColor="@color/mepo"
+            android:text="PANDUAN"
+            android:textStyle="bold"
+            android:textSize="32sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/mepo"
+            android:text="Apa itu MEPO ID?"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/black"
+            android:text="MEPO ID adalah sebuah aplikasi pemesanan tiket online yang mudah digunakan untuk membeli tiket dibeberapa untuk objek destinasi wisata."
+            android:justificationMode="inter_word"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/mepo"
+            android:text="Mengapa harus di MEPO ID?"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/black"
+            android:text="MEPO memudahkan wisatawan dalam pembelian tiket masuk destinasi, diharapkan dengan hadirnya aplikasi ini dapat memudahkan wisatawan dan nyaman ketika melakukan pembelian tiket masuk."
+            android:justificationMode="inter_word"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/mepo"
+            android:text="Siapa saja yang dapat menggunakan MEPO ID?"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/black"
+            android:text="Aplikasi MEPO didesain dengan sederhana sehingga dapat digunakan untuk semua usia karena mudah dimengerti dan dipahami untuk cara penggunaannya."
+            android:justificationMode="inter_word"
+            android:textSize="14dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="8dp"
+            android:textColor="@color/mepo"
+            android:text="Bagaimana cara melakukan pembelian di MEPO ID?"
+            android:textStyle="bold"
+            android:justificationMode="inter_word"
+            android:textSize="20dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:textColor="@color/black"
+            android:text="Wisatawan dapat melakukan pembelian dengan cara pilih tempat destinasi yang akan dikunjungi, setelah itu akan ditujukan beberapa informasi mulai dari deskripsi singkat, waktu operasional, harga tiket, alamat dan pada bagian bawah wisatawan dapat membeli tiket."
+            android:justificationMode="inter_word"
+            android:textSize="14dp" />
+
+    </LinearLayout>
+
+</ScrollView>
